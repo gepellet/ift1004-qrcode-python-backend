@@ -1,4 +1,4 @@
-Cours IFT-1004 ULAVAL QRCode Validation Backend
+IFT-1004 ULAVAL QRCode Validation Backend
 ====
 
 # Wait a minute...
