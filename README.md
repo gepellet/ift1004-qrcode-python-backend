@@ -3,7 +3,7 @@ Cours IFT-1004 ULAVAL QRCode Validation Backend
 
 # Wait a minute...
 
-The following parts about the virtual environment setup can be drastically simplified by using the built-in mechanism of your preferred IDE (e.g. Pycharm).
+Instead of doing it manually, note that the following parts about the virtual environment setup can be drastically simplified by using the built-in mechanism of your preferred IDE (e.g. Pycharm).
 
 # Create a virtual environment
 ```python -m venv [VIRTUAL_ENV_NAME]```
