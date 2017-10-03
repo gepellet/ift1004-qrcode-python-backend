@@ -6,7 +6,7 @@ Cours IFT-1004 ULAVAL QRCode Validation Backend
 
 Ex: ```python -m venv venv```
 
-PS: Note that you can use the virtualenv package if you want.
+PS: Note that you can use the virtualenv package or the built-in mechanism of your preferred IDE if you want.
 
 # Activate the virtual env
 
